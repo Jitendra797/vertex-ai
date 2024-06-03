@@ -7,8 +7,11 @@ environment:
   sdk: '>=3.3.0 <4.0.0'
 
 dependencies:
+  dash_chat_2: ^0.0.21
   flutter:
     sdk: flutter
+  flutter_gemini: ^2.0.4
+  image_picker: ^1.1.2
 
 dev_dependencies:
   flutter_test:
